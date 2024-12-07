@@ -15,12 +15,13 @@
    6. Любые вопросы по выполнению заданий спрашивайте в чате учебной группы и/или в разделе “Вопросы по заданию” в личном кабинете.
    
 Желаем успехов в выполнении домашнего задания!
+
+---
    
 ### Ссылка на репозиторий с кодом
 
 1. [Ссылка на репозиторий с кодом](https://github.com/wintercomesX/ter-homeworks02_code)
 
----
 
 ### Задание 1
 
@@ -31,6 +32,7 @@
 
 ![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/1.1.PNG)`
 
+---
 
 ### Задание 2
 
@@ -38,13 +40,19 @@
 
 ![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/2.1.PNG)`
 
+---
+
 ### Задание 3
 
 ![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/3.PNG)`
 
+---
+
 ### Задание 4
 
 ![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/4.PNG)`
+
+---
 
 ### Задание 5
 
@@ -53,6 +61,8 @@
 ![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/5.1.PNG)`
 
 ![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/5.2.PNG)`
+
+---
 
 ### Задание 6
 
