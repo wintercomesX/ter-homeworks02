@@ -22,6 +22,7 @@
 
 1. [Ссылка на репозиторий с кодом](https://github.com/wintercomesX/ter-homeworks02_code)
 
+---
 
 ### Задание 1
 
