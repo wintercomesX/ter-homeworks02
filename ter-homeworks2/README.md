@@ -18,9 +18,9 @@
 
 ---
    
-### Ссылка на репозиторий с кодом
+### Ссылка на репозиторий с итоговым кодом ДЗ
 
-1. [Ссылка на репозиторий с кодом](https://github.com/wintercomesX/ter-homeworks02_code)
+1. [Ссылка на репозиторий с итоговым кодом ДЗ](https://github.com/wintercomesX/ter-homeworks02_code)
 
 ---
 
