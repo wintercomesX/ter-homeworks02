@@ -27,33 +27,33 @@
 4. `Изменения: 1. Добавлены идентификаторы облака в сloud_id и folder_id 2.Изменен путь к authorized_key 3.Изменена платформа на standart-v4 а standard-v3 в main.tf 4.Изменено core fracton c 5 на 20 5.Изменено cores c 1 на 2`
 6. `preemptible = true: Это позволяет создавать временные ВМ с более низкой стоимостью, которые могут быть прерваны Yandex Cloud при недостатке ресурсов. core_fraction: Это определяет долю ресурса ЦП, выделяемого для вашей ВМ, позволяя более эффективно использовать ресурсы, когда они доступны.`
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/1.1.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/1.PNG)`
 
-![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/1.1.PNG)`
+![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/1.1.PNG)`
 
 
 ### Задание 2
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/2.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/2.PNG)`
 
-![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/2.1.PNG)`
+![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/2.1.PNG)`
 
 ### Задание 3
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/3.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/3.PNG)`
 
 ### Задание 4
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/4.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/4.PNG)`
 
 ### Задание 5
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/5.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/5.PNG)`
 
-![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/5.1.PNG)`
+![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/5.1.PNG)`
 
-![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/5.2.PNG)`
+![2](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/5.2.PNG)`
 
 ### Задание 6
 
-![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks02/img/6.PNG)`
+![1](https://github.com/wintercomesX/ter-homeworks02/blob/main/ter-homeworks2/img/6.PNG)`
